@@ -809,13 +809,7 @@ E885.9,"Fall from other slipping, tripping, or stumbling",E885,Unintentional fal
 E886,"Fall on same level from collision, pushing, or shoving, by or with other person",E886,"Fall on same level from collision, pushing, or shoving, by or with other person",E880-E888,Unintentional Falls
 E886.0,"Fall on same level from collision, pushing, or shoving, by or with other person in sports",E886,"Fall on same level from collision, pushing, or shoving, by or with other person",E880-E888,Unintentional Falls
 E886.9,"Other and unspecified falls on same level from collision, pushing, or shoving, by or with other person",E886,"Fall on same level from collision, pushing, or shoving, by or with other person",E880-E888,Unintentional Falls
-A finding of traumatic injury to the bone in which the continuity of the bone is broken.,,E887,"Fracture, cause unspecified",E880-E888,Unintentional Falls
-"A fracture is a break, usually in a bone. If the broken bone punctures the skin, it is called an open or compound fracture. Fractures commonly happen because of car accidents, falls or sports injuries. Other causes are low bone density and osteoporosis, which cause weakening of the bones. Overuse can cause stress fractures, which are very small cracks in the bone. Symptoms of a fracture areout-of-place or misshapen limb or joint  swelling, bruising or bleeding  intense pain  numbness and tingling  limited mobility or inability to move a limb you need to get medical care right away for any fracture. You may need to wear a cast or splint. Sometimes you need surgery to put in plates, pins or screws to keep the bone in place.",,E887,"Fracture, cause unspecified",E880-E888,Unintentional Falls
-A traumatic injury to the bone in which the continuity of the bone is broken.,,E887,"Fracture, cause unspecified",E880-E888,Unintentional Falls
-Breaks in bones.,,E887,"Fracture, cause unspecified",E880-E888,Unintentional Falls
-Breaks or rupture in bones or cartilages.,,E887,"Fracture, cause unspecified",E880-E888,Unintentional Falls
 E887,"Fracture, cause unspecified",E887,"Fracture, cause unspecified",E880-E888,Unintentional Falls
-Falls due to slipping or tripping which result in loss or injury.,,E888,Other and unspecified fall,E880-E888,Unintentional Falls
 E888,Other and unspecified fall,E888,Other and unspecified fall,E880-E888,Unintentional Falls
 E888.0,Fall resulting in striking against sharp object,E888,Other and unspecified fall,E880-E888,Unintentional Falls
 E888.1,Fall resulting in striking against other object,E888,Other and unspecified fall,E880-E888,Unintentional Falls
@@ -993,7 +987,6 @@ E925.1,"Unintentional injury caused by electric current in electric power genera
 E925.2,"Unintentional injury caused by industrial wiring, appliances, and electrical machinery",E925,Unintentional injury caused by electric current,E916-E928,Other Unintentional injuries
 E925.8,Unintentional injury caused by other electric current,E925,Unintentional injury caused by electric current,E916-E928,Other Unintentional injuries
 E925.9,Unintentional injury caused by unspecified electric current,E925,Unintentional injury caused by electric current,E916-E928,Other Unintentional injuries
-"Radiation is energy that travels in the form of waves or high-speed particles. It occurs naturally in sunlight. Man-made radiation is used in x-rays, nuclear weapons, nuclear power plants and cancer treatment. if you are exposed to small amounts of radiation over a long time, it raises your risk of cancer. It can also cause mutations in your genes, which you could pass on to any children you have after the exposure. A lot of radiation over a short period, such as from a radiation emergency, can cause burns or radiation sickness. Symptoms of radiation sickness include nausea, weakness, hair loss, skin burns and reduced organ function. If the exposure is large enough, it can cause premature aging or even death. You may be able to take medicine to reduce the radioactive material in your body.  environmental protection agency",,E926,Exposure to radiation,E916-E928,Other Unintentional injuries
 E926,Exposure to radiation,E926,Exposure to radiation,E916-E928,Other Unintentional injuries
 E926.0,Exposure to radiofrequency radiation,E926,Exposure to radiation,E916-E928,Other Unintentional injuries
 E926.1,Exposure to infra-red radiation from heaters and lamps,E926,Exposure to radiation,E916-E928,Other Unintentional injuries
@@ -1333,7 +1326,6 @@ E975,Injury due to legal intervention by other specified means,E975,Injury due t
 E976,Injury due to legal intervention by unspecified means,E976,Injury due to legal intervention by unspecified means,E970-E979,Legal Intervention
 E977,Late effects of injuries due to legal intervention,E977,Late effects of injuries due to legal intervention,E970-E979,Legal Intervention
 E978,Legal execution,E978,Legal execution,E970-E979,Legal Intervention
-"Violence or threats of violence in order to achieve political, economic, or social goals.",,E979,Terrorism,E970-E979,Legal Intervention
 E979,Terrorism,E979,Terrorism,E970-E979,Legal Intervention
 E979.0,Terrorism involving explosion of marine weapons,E979,Terrorism,E970-E979,Legal Intervention
 E979.1,Terrorism involving destruction of aircraft,E979,Terrorism,E970-E979,Legal Intervention
